@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="wlc_adi_.png" alt="Welcome to Aditya's GitHub" width="100%"/>
+<img src="wlc_adi.png" alt="Welcome to Aditya's GitHub" width="100%"/>
 
 <br/><br/>
 
